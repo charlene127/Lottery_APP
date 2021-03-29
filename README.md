@@ -1,2 +1,2 @@
-# Lottery_APP
-尾牙抽獎APP
+# Others
+其他系統開發
